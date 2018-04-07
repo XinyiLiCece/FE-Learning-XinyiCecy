@@ -1,0 +1,9 @@
+1. What is Virtual DOM
+1) 构建虚拟DOM
+2) 通过虚拟DOM构建真正的DOM
+3) 生成新的虚拟DOM
+4) 比较两棵虚拟DOM树的不同
+5) 在真正的DOM元素上应用变更
+
+
+
